@@ -1,6 +1,6 @@
-# untitled5
+# internet connection checker
 
-A new Flutter project.
+This project is created to check internet connection
 
 ## Getting Started
 
